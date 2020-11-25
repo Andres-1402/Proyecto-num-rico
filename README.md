@@ -1,4 +1,6 @@
 # Proyecto-numerico
+Juan ANdres Florez Peinado
+Frank Stid Gimenez  Benavides
 
 Aqui se encuentran dos proyectos, uno donde integra y el otro  donde  se deriva.
 
